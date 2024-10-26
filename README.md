@@ -1,2 +1,2 @@
 # IOExtensions
-C#のSystem.IOを拡張します。Github
+C#のSystem.IOを拡張します。あとGithubの使い方の練習用。
